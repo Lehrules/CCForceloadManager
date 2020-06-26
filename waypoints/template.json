@@ -1,0 +1,18 @@
+{
+  "id": "witch_291,63,-2000",
+  "name": "witch",
+  "icon": "waypoint-normal.png",
+  "x": 291,
+  "y": 63,
+  "z": -2000,
+  "r": 202,
+  "g": 112,
+  "b": 150,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}
